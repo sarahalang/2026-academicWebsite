@@ -7,7 +7,7 @@ first_name: Sarah
 middle_name: A.
 last_name: Lang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can best reach me via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -15,10 +15,10 @@ footer_text: >
   Hosted by <a href="https://app.netlify.com" target="_blank">Netlify</a>.
 keywords: computational humanities, digital humanities, critical digital humanities, critical AI, history of science, history of knowledge, alchemy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚗℞ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚗ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sarahalang.com # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -458,7 +458,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
-enable_cookie_consent: false # enables GDPR-compliant cookie consent dialog (https://github.com/orestbida/cookieconsent)
+enable_cookie_consent: true # enables GDPR-compliant cookie consent dialog (https://github.com/orestbida/cookieconsent)
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts

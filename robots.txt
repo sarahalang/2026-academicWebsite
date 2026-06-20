@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sarahalang.com/al-folio/sitemap.xml
+Sitemap: https://sarahalang.com/sitemap.xml

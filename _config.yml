@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://app.netlify.com" target="_blank">Netlify</a>.
 keywords: computational humanities, digital humanities, critical digital humanities, critical AI, history of science, history of knowledge, alchemy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚗ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ℞ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sarahalang.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

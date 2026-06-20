@@ -8,28 +8,28 @@ email: slang@mpiwg-berlin.mpg.de # your email address
 scholar_userid: EghH0_UAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/orcid.svg
   title: ORCID
   url: https://orcid.org/0000-0002-4618-9481 
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/bluesky.svg
   title: BlueSky
   url: https://bsky.app/profile/sarahalang.bsky.social
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/mastodon.svg
   title: Mastodon/Fedihum
   url: https://fedihum.org/@sarahalang
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/zenodo.svg
   title: Zenodo 
   url: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Sarah%22&l=list&p=1&s=10&sort=bestmatch 
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/zotero-square.svg
   title: Zotero
   url: https://www.zotero.org/sarahalang/
 custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/academia.svg
+  logo: ai-academia
   title: Academia.edu
   url: https://mpiwg-berlin-mpg.academia.edu/SarahLang   
 custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin

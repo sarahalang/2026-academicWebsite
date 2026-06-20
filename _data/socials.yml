@@ -36,6 +36,10 @@ custom_social:  # can be any name here other than the ones already defined in th
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/tex.svg
   title: LaTeX Ninja Blog
   url: https://latex-ninja.com
+custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: brands/youtube
+  title: My YouTube Channel
+  url: https://www.youtube.com/@sarahalang 
 
 
 

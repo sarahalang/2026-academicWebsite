@@ -343,7 +343,7 @@ scholar:
   last_name: [Lang]
   first_name: [Sarah, A.]
 
-  style: chicago
+  style: apa
   locale: en
 
   source: /_bibliography/

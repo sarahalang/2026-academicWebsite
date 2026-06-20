@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sarahalang
+  - criticalDH
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sarahalang/alchemical-dictionaries
+  - sarahalang/LLM-powered-OCR-correction
+  - sarahalang/hab-nfdi4memory-fairDataFellow
+  - sarahalang/processus-universalis
+  - sarahalang/Harvard_BeyondTEI_Workshop_SLang2022

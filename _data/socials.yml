@@ -7,16 +7,23 @@ work_url: www.mpiwg-berlin.mpg.de/de/people/slang
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: EghH0_UAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-4618-9481 
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+zotero_username: sarahalang 
+github_username: sarahalang
+youtube_id: @sarahalang 
+# instagram_id: 
+# discord_id: 
+# research_gate_profile: 
+# arxiv_id: 
+bluesky_url: https://bsky.app/profile/sarahalang.bsky.social
+mastodon_username: https://fedihum.org/@sarahalang
+academia_edu: https://mpiwg-berlin-mpg.academia.edu/SarahLang    
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://raw.githubusercontent.com/sarahalang/2026-academicWebsite/350aa30b0530ac15be7ec5ca039aeea9903fb9b5/assets/img/orcid.svg
   title: ORCID
   url: https://orcid.org/0000-0002-4618-9481 
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/bluesky.svg
-  title: BlueSky
-  url: https://bsky.app/profile/sarahalang.bsky.social
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/mastodon.svg
   title: Mastodon/Fedihum
@@ -29,18 +36,11 @@ custom_social: # can be any name here other than the ones already defined in the
   logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/zotero-square.svg
   title: Zotero
   url: https://www.zotero.org/sarahalang/
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: ai-academia
-  title: Academia.edu
-  url: https://mpiwg-berlin-mpg.academia.edu/SarahLang   
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/tex.svg
+
+latex_ninja:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: latex-alt
   title: LaTeX Ninja Blog
   url: https://latex-ninja.com
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: brands/youtube
-  title: My YouTube Channel
-  url: https://www.youtube.com/@sarahalang 
 
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg

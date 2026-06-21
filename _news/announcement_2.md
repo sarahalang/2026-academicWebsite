@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ambix Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry” about to be published!
+title: '*Ambix* Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry” about to be published!'
 date: 2026-06-22
 inline: false
 related_posts: false
@@ -15,5 +15,5 @@ Of the four contributions I was directly involved in
     <li>*Mediating Alchemical Language across Terminologies and Cultures in Ruland’s Lexicon Alchemiae: A Data-driven Study of Arabic Terms* (with Farzad Mahootian and Hazem Lashen) leverages LLMs for a hybrid close and distant reading.</li>
     <li>*Contextual Word Embeddings for Paracelsian Lexicography: Tangled Terminologies and their Origins in Ruland’s Alchemical Dictionary* (with Vojtěch Kaše) performs distributional semantics and tracks the provenance of Ruland's terms across an earlier corpus.</li>
     <li>In the epilogue *A Computational Turn? Reflections on Digital and Computational History of Science, Knowledge and Technology*, I reflect whether there is such a thing as 'Computational History of Science' (no, not as a consolidated discipline) and what that could look like. </li>
-</ul>
+</ol>
 

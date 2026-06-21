@@ -5,7 +5,7 @@ description: In-silico (quantum/computational) chemical simulations have not bee
 img: assets/img/aqua-regia2.JPG
 importance: 1
 category: computational history of science and knowledge
-related_publications: true
+related_publications: false
 ---
 
 Together with my colleague Guillermo Restrepo, I currently explore the in silico replication of alchemical recipes. 

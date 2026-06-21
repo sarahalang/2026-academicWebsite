@@ -1,0 +1,17 @@
+---
+layout: page
+title: Dataset Documentation, Auditing and Data Work 
+description: Data (work) shapes results, yet we don't document or even understand our datasets well enough. I argue for standardized documentation and auditing pracitces as well as properly valuing data work. 
+#img: assets/img/1.jpg
+importance: 3
+category: critical digital humanities 
+---
+
+Through my engagement with critical digital humanities, I'm increasingly interested in the study of data work and its influence on processes of knowledge production {% cite GengnagelLang2026 %}. 
+
+After preliminary work on dataset documentation practices  {% cite Lang2025DocumentingDatasets %}, 
+I have articulated dataset audit as a practical strategy for identifying and addressing data gaps {% cite ‎LangSuarezCronauer2026‎ %}.
+This is closely connected to fields such as critical AI studies, which increasingly recognise data and data work as central sources of bias and unethical outcomes in computational systems. 
+
+Recognizing the sheer amount of hidden labour and data work required for computational humanities research, I have examined what it means to _do_ computational history {% cite Lang2026DoingComputationalHistory %}.
+I have also investigated invisibilised labour in Computational Humanities contexts through the lenses of data work and the invisible technician discourse {% cite Lang2027_TwoTierCH_Feminisms %}.

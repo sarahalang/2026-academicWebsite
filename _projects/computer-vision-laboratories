@@ -1,0 +1,17 @@
+---
+layout: page
+title: Detecting laboratory objects in early modern illustrations
+description: Early modern technical handbooks increasingly draw on and re-use illustrations of laboratory equipment that are investigated using computer vision methods following the Distant Viewing paradigm.
+img: assets/img/alchemyComputerVision.png
+importance: 1
+category: computational history of science and knowledge
+related_publications: true
+---
+
+The computer vision subproject investigates alchemical laboratory objects through computer vision methods applied to a corpus of early modern handbooks and technical treatises. 
+These works incorporated increasingly more sophisticated illustrations of laboratory equipment and experimental setups. 
+
+The project builds on an annotated computer vision dataset {% cite Lang2025ZfdG %} and explores the possibilities of computational image analysis in this context. 
+At the same time, it critically examines the limitations of computer vision approaches for early modern materials {% cite Lang2026DoingComputationalHistory %}. 
+The primary challenge is not the visual style of the images themselves but the difficulty of annotating and analysing concepts that contemporary algorithms have not been trained to recognise {% cite LangLieblBurghardt2023 %}. 
+This reveals forms of bias that often remain hidden within computational approaches commonly associated with distant viewing in the computational humanities.

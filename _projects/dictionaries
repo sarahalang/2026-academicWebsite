@@ -1,0 +1,22 @@
+---
+layout: page
+title: Alchemical dictionaries and early modern lexicography
+description: This project investigates the knowledge representation practices in early modern dictionaries through multiple computational approaches.
+img: assets/img/ruland-lexicon.png
+importance: 1
+category: computational history of science and knowledge
+related_publications: true
+---
+
+The project employs multiple computational methods and builds on a dataset of alchemical dictionaries that has been published as a data paper  {% cite Lang2025JOHD %}. 
+Through a series of case studies, it investigates the knowledge representation practices in early modern dictionaries. 
+  
+One case study investigates early modern lexicography and related knowledge-organisation resources 
+by examining how Arabic knowledge and Arabic terminology are represented within them {% cite LangMahootianLashen2026 %}. 
+It seeks to contribute to a more global historiography of alchemy by exploring the inclusion of non-Western forms of knowledge in early modern systems of knowledge organisation.
+
+Another study uses word embeddings to trace the potential origins of terms that Ruland lists as headwords in his dictionary {% cite KaseLang2026Ambix %}. 
+Drawing on a representative corpus of books from the preceding century that may have served as sources, the study aims to generate new insights into the compilation of the dictionary, a process about which very little is known.
+
+Another article critically reflects on the lure of plausibility when using large language models to investigate terms in a non-Western language, namely Arabic {% cite LangEtAl2026Confabulated %}. 
+It examines both the opportunities and limitations of these methods and highlights the risks associated with relying on technologies that are not be equally robust across different linguistic traditions, especially non-Western languages.

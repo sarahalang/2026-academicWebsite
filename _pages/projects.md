@@ -5,7 +5,7 @@ permalink: /projects/
 description: This page gives an overview on my ongoing and past projects.
 nav: true
 nav_order: 3
-display_categories: [computational history of science, critical digital humanities,book projects, alchemy, alchemical ciphers, past]
+display_categories: [computational history of science and knowledge, critical digital humanities,book projects, alchemy, alchemical ciphers, past]
 horizontal: false
 ---
 

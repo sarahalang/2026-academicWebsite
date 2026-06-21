@@ -17,16 +17,16 @@ mastodon_username: fedihum.org/@sarahalang  # your mastodon instance+username in
 # discord_id: # your discord id (18-digit unique numerical identifier)
 # research_gate_profile: 
 # arxiv_id: 
-zotero_username: sarahalang
 academia_edu: # https://mpiwg-berlin-mpg.academia.edu/SarahLang    
  organization: mpiwg-berlin-mpg # your organization as appears in the subdomain
  username:  SarahLang # your username
-
+# ------
+# for some reason the following don't work but I guess it doensn't matter
+zotero_username: sarahalang
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: ai ai-zenodo #si si-zenodo
-  title: Zenodo 
+  title: Zenodo
   url: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Sarah%22&l=list&p=1&s=10&sort=bestmatch 
-
  # logo can be a link to an image (png, jpg, svg)
   # or an Academicons class like "ai ai-acm" https://jpswalsh.github.io/academicons/ 
   # or a FontAwesome class like "fa-brands fa-square-letterboxd" https://fontawesome.com/
@@ -34,14 +34,11 @@ custom_social: # can be any name here other than the ones already defined in the
   # or any other icon class from fonts you've added to your site
 custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://latex-ninja.com/wp-content/uploads/2018/10/cropped-ninja.png # fa-brands fa-tex #si si-latex #fa-solid fa-user-ninja # fa-solid fa-user-secret
-  title: LaTeX Ninja Blog
+  title: LaTeXNinja-Blog
   url: https://latex-ninja.com
-
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
-
-
-
-  
+# ---
+# the following example one does work - but I don't understand what the difference is...
+#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#  title: Custom Social
+#  url: https://www.alberteinstein.com/

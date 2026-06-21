@@ -287,6 +287,16 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 <!--ts-->
 
+- [Quickedit Reminders](#quickedit-reminders)
+  - [Config and about](#config-and-about)
+  - [CV functionalities](#cv-functionalities)
+  - [Editing publications](#editing-publications)
+  - [Edit news](#edit-news)
+  - [Edit Github/repos](#edit-githubrepos)
+  - [Adding new pages](#adding-new-pages)
+  - [Editing socials](#editing-socials)
+  - [Edit projects](#edit-projects)
+  - [Edit teaching](#edit-teaching)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)

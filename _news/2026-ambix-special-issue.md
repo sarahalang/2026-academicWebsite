@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ambix Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry” about to be published!
-date: 2026-20-22
+date: 2026-06-22
 inline: false
 related_posts: false
 ---

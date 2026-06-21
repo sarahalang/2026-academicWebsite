@@ -1,3 +1,42 @@
+# Quickedit Reminders
+
+## Config and about
+Is in `_config.yml`. 
+Ideally keep as is. Most personal info comes from `_pages/about.md` (i.e. CV narrative, role etc.)
+
+Name up top and few settings are actually in config. 
+
+## CV functionalities
+Were not implemented here and just removed from the navbar (but dummy theoretically still exists). Maybe think about filling this out and adding back in in the future. So far, the PDF CV should be more than enough. 
+
+## Editing publications
+`_pages/publications.md` is where the publications page header is set. All else is automatically imported from `_bibliography/papers.bib`. If keywords are to be indexed for search, bibtex download has to be enabled (as it will then also search the bibtex because actually, it doesn't support keywords unlike the old Hugo Academic Starter Site - only downside).
+
+Make sure to include full info for publications to enable all features. 
+
+## Edit news
+`_pages/news.md` for main setup (although I think I didn't even use that). 
+To add sth new, create new md-file (name doesn't matter, unlike for blogposts that would need to respect a specific naming convention).
+There's inline and longer form. The date cannot be in the future!
+
+## Edit Github/repos
+Not much can be edited here but one can add highlighted repos. Maybe update those every once in a while.
+Edit here: `_data/social.yml`. Rest can be done in the `_pages` directory. 
+
+## Adding new pages
+Tutorial is [here](https://github.com/alshedivat/al-folio/blob/main/docs/CUSTOMIZE.md#creating-new-pages).
+Didn't work at first for linktree (not a page but a permalink that should be in the navbar). 
+
+## Editing socials
+This was pretty chaotic but links to all relevant tutorials have been included in the file in `_data/social.yml`.
+Some of it still mysteriously doesn't work but then parts work again and still it's not fully clear what the problem really is.
+
+## Edit projects
+Main view in the `_pages` directory. Rest in `_posts`. 
+
+## Edit teaching
+Main view in the `_pages` directory. Rest in `_teachings`. 
+
 # al-folio
 
 <div align="center">

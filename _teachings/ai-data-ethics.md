@@ -31,14 +31,3 @@ Students will therefore gain a broad understanding of critical AI approaches whi
 
 This course is taught at Humboldt-Universität zu Berlin (Winter Semester 2026/2027) and Freie Universität Berlin (Summer Semester 2027).
 
-
----
-
-
-The course examines AI and data ethics through perspectives from the humanities, critical data studies, critical archival studies, critical code studies, data feminism, and activist scholarship. Students develop an understanding of how AI and data-driven technologies function, how knowledge is encoded in computational systems, and how these technologies are shaped by data, labour, infrastructure, and material conditions.
-
-Particular attention is given to the social, political, and ethical dimensions of data production, including questions of bias, inequality, documentation practices, data labour, and environmental impact. The course situates contemporary debates around generative AI within broader discussions of ethics, emphasising that ethical approaches emerge from diverse disciplinary traditions, including computer science, philosophy, feminist theory, and cultural heritage studies.
-
-By engaging with both technical foundations and critical perspectives, students learn to analyse, evaluate, and apply approaches to AI and data ethics in informed and reflective ways.
-
-

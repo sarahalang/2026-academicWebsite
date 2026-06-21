@@ -5,6 +5,7 @@ description: Data (work) shapes results, yet we don't document or even understan
 #img: assets/img/1.jpg
 importance: 3
 category: critical digital humanities 
+related_publications: true
 ---
 
 Through my engagement with critical digital humanities, I'm increasingly interested in the study of data work and its influence on processes of knowledge production {% cite GengnagelLang2026 %}. 

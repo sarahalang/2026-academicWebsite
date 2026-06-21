@@ -4,7 +4,7 @@ title: Viatorium
 description: German translation and chemical commentary on Michael Maier’s Viatorium (1618)
 img: assets/img/maier-viatorium-titlepage.png
 importance: 4
-category: past
+category: alchemy
 related_publications: true
 ---
 

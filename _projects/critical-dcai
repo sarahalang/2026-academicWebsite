@@ -5,6 +5,7 @@ description: I argue that a Critical Computational Humanities needs to adopt Dat
 #img: assets/img/1.jpg
 importance: 2
 category: critical digital humanities 
+related_publications: true
 ---
 
 Recently, my research has expanded to include critical AI. This includes articulating critical concerns regarding the use of large language models in digital and computational humanities  {% cite Lang2026LLM_criticalHPSS %}, as well as addressing issues such as carbon reporting and the environmental impact of computational research {% cite LangEtAl2025EnvironmentalFootprint‎ %}.

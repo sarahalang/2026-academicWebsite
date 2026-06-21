@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching Portfolio and abstracts of classes taught
 nav: true
-nav_order: 6
+nav_order: 4
 calendar: true
 ---
 

@@ -1,12 +1,15 @@
 ---
 layout: page
-title: links
+title: other
 nav: true
 nav_order: 8
 dropdown: true
 children:
   - title: linktree
     permalink: https://linktree.sarahalang.com/
+  - title: divider
+  - title: github
+    permalink: /repositories/
   - title: divider
   - title: latex ninja blog
     permalink: https://latex-ninja.com/

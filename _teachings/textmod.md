@@ -1,6 +1,6 @@
 ---
 layout: course
-title: X-Technologies I: Introduction to Text Modelling
+title: X-Technologies I (Introduction to Text Modelling)
 description: This course introduces XML-based text modelling and the use of TEI for the semantic representation of humanities texts and research data.
 instructor: Sarah Lang, Georg Vogeler
 year: 2021

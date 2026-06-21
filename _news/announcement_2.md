@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 I am happy to announce that the *Ambix* Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry”, which I co-edited together with Guillermo Restrepo and Farzad Mahootian, is about to be published.
-
+---
 With four contributions of my own, in addition to co-editing the issue, this was a major project, which was catalysed by the wonderful May 2025 NYU Abu Dhabi workshop, *The Alchemy of Global Partnerships*, convened by Farzad Mahootian.
 
 Of the four contributions I was directly involved in

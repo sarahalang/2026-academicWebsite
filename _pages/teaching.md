@@ -16,6 +16,9 @@ I have also been involved in several innovative teaching projects, including the
 
 Also relevant to my teaching is [my digital humanities blog, *LaTeX Ninja'ing and the Digital Humanities*](https://latex-ninja.com/). Particularly in its earlier years, the blog featured numerous tutorials, one of which later formed the basis of a [workshop at Harvard *Beyond TEI: Digital Editions with XPath and XSLT for the Web and in LaTeX*](https://github.com/sarahalang/Harvard_BeyondTEI_Workshop_SLang2022).
 
-You can find a full list of my courses taught below.
+You can find a full list of my courses taught below. 
+
+Some of the courses listed in this portfolio were taught multiple times in only slightly different formats. Therefore, each distinct course is included only once in the portfolio. The description on the respective course page indicates whether a course was taught more than once and, if so, specifies the semesters in which it was offered.
+
 
 {% include courses.liquid %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spectators
-description: _Moralische Wochenschriften_
+description: Moralische Wochenschriften
 # img: assets/img/9.jpg
 importance: 5
 category: past

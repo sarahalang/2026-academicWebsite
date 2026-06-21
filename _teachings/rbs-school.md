@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Digitizing the Materiality of the Premodern Book (Winter School and Video Course)
+title: Digitizing the Materiality of the Premodern Book (School and Videos)
 description: This winter school introduces the digitisation of manuscripts and rare books, with a focus on materiality, bibliography, and TEI-based description.
 instructor: Sean Winslow, Sarah Lang et al.
 year: 2022

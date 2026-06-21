@@ -5,7 +5,7 @@ description: The early modern period witnessed a boom in how-to books. So-called
 img: assets/img/wecker1617-666.png
 importance: 1
 category: computational history of science and knowledge
-related_publications: true
+related_publications: false
 ---
 
 The early modern period witnessed not only the expansion of general knowledge-organisation resources but also a growing demand for practical knowledge, which was, among other things, expressed through “how-to” books and so-called "books of secrets". 

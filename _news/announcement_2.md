@@ -1,33 +1,20 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: *Ambix* Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry” about to be published!
+date: 2026-20-22
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I am happy to announce that the *Ambix* Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry”, which I co-edited together with Guillermo Restrepo and Farzad Mahootian, is about to be published.
 
----
+With four contributions of my own, in addition to co-editing the issue, this was a major project, which was catalysed by the wonderful May 2025 NYU Abu Dhabi workshop, *The Alchemy of Global Partnerships*, convened by Farzad Mahootian.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+Of the four contributions I was directly involved in
+<ol>
+    <li>The _Introduction: computational approaches to the histories of alchemy and chemistry_ (co-authored with Farzad Mahootian and Guillermo Restrepo) reflects on the epistemic horizons and responsibilities of computational methods.</li>
+    <li>_Mediating Alchemical Language across Terminologies and Cultures in Ruland’s Lexicon Alchemiae: A Data-driven Study of Arabic Terms_ (with Farzad Mahootian and Hazem Lashen) leverages LLMs for a hybrid close and distant reading.</li>
+    <li>_Contextual Word Embeddings for Paracelsian Lexicography: Tangled Terminologies and their Origins in Ruland’s Alchemical Dictionary_ (with Vojtěch Kaše) performs distributional semantics and tracks the provenance of Ruland's terms across an earlier corpus.</li>
+    <li>In the epilogue _A Computational Turn? Reflections on Digital and Computational History of Science, Knowledge and Technology_, I reflect whether there is such a thing as 'Computational History of Science' (no, not as a consolidated discipline) and what that could look like. </li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.

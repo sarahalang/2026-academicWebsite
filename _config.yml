@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Sarah A. Lang
+title: blank # if blank, full name will be used
 first_name: Sarah
 middle_name: A.
 last_name: Lang

@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Machine Learning for Digital Scholarly Editions (Summer School)
+title: Machine Learning for Digital Scholarly Editions (School)
 description: This summer school introduces machine learning methods for digital scholarly editions, combining practical applications with the theoretical foundations of topic modelling and text analysis.
 instructor: Martina Scholger, Roman Bleier, Bernhard Geiger, Sarah Lang et al.
 year: 2025

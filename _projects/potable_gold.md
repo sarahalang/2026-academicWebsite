@@ -15,3 +15,4 @@ In future work, potable gold will serve as one of the first case studies for in 
 A selection of potable gold recipes will be analysed by simulating their underlying chemistry using computational (quantum) chemistry methods. 
 This project will provide an initial proof of concept for a broader research programme that seeks to investigate historical chemical knowledge through computational simulation and will be the first of a series of planned case studies.
 
+**Image credit:** "Pure gold precipitate produced by the aqua regia chemical refining" process ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Golddust.jpg)).

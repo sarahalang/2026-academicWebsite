@@ -15,3 +15,6 @@ The project builds on an annotated computer vision dataset {% cite Lang2025ZfdG 
 At the same time, it critically examines the limitations of computer vision approaches for early modern materials {% cite Lang2026DoingComputationalHistory %}. 
 The primary challenge is not the visual style of the images themselves but the difficulty of annotating and analysing concepts that contemporary algorithms have not been trained to recognise {% cite LangLieblBurghardt2023 %}. 
 This reveals forms of bias that often remain hidden within computational approaches commonly associated with distant viewing in the computational humanities.
+
+
+

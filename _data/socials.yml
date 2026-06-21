@@ -9,7 +9,7 @@ scholar_userid: EghH0_UAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://github.com/sarahalang/2026-academicWebsite/blob/main/assets/img/orcid.svg
+  logo: https://raw.githubusercontent.com/sarahalang/2026-academicWebsite/350aa30b0530ac15be7ec5ca039aeea9903fb9b5/assets/img/orcid.svg
   title: ORCID
   url: https://orcid.org/0000-0002-4618-9481 
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin

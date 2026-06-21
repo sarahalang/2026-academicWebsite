@@ -5,7 +5,7 @@ description: The edited volume aims to highlight the specific ways in which digi
 #img: assets/img/wecker1617-666.png
 importance: 1
 category: book projects
-related_publications: true
+related_publications: false
 ---
 
 In my role as Head of Digital Humanities at the Max Planck Institute for the History of Science, 

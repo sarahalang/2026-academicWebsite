@@ -5,6 +5,7 @@ description: Within the working group formerly known as DHd AG Empowerment, whic
 #img: assets/img/1.jpg
 importance: 5
 category: critical digital humanities 
+related_publications: true
 ---
 
 This work closely connects to my role on [the board of directors of the German Association for Digital Humanities](https://digitalhumanities.de/der-vorstand/) (_Digital Humanities im deutschsprachigen Raum_, DHd). 

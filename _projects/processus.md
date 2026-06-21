@@ -9,6 +9,7 @@ related_publications: true
 ---
 
 Certain procedures in historical recipe groups became the focus of extensive reworking and circulation. One such cluster of texts is the _Processus Universalis_, which exists in over 100 known manuscript versions. 
+
 Computational approaches are used to categorise alchemical recipes that belong to the same recipe group but survive in different stages of development. The goal is to better understand how these texts relate to one another, especially since many are undated and their relationships remain unclear. Unlike a traditional philological stemma or collation process, reconstruction is complicated by the fact that practitioners actively experimented with these recipes in the laboratory. As a result, textual transmission is not straightforward. Many of the texts are interrelated. Digital methods help identify patterns that may bring greater order to this complex corpus. Besides text reuse detection, I have employed stylometric and phylogenetic analyses on this coprus. 
 
 I started the _Processus Universalis_ project in 2018 together with the [Gotha Netzwerk Alchemie](https://www.uni-erfurt.de/forschungszentrum-gotha/forschung/arbeitsstellen-und-netzwerke/netzwerk-alchemie). 

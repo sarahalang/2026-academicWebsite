@@ -37,7 +37,7 @@ custom_social: # can be any name here other than the ones already defined in the
   title: Zotero
   url: https://www.zotero.org/sarahalang/
 
-latex_ninja:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: latex-alt
   title: LaTeX Ninja Blog
   url: https://latex-ninja.com

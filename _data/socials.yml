@@ -26,7 +26,7 @@ latex_ninja:  # can be any name here other than the ones already defined in the 
  url: https://latex-ninja.com
 # ------
 # for some reason the following don't work but I guess it doensn't matter
-# zotero_username: sarahalang # this seems to break everything somehow
+zotero_username: sarahalang # this seems to break everything somehow
 zenodo: # can be any name here other than the ones already defined in the jekyll-socials plugin
  logo: ai ai-zenodo #si si-zenodo
  title: Zenodo

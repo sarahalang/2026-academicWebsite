@@ -7,14 +7,14 @@ cover: assets/img/book_covers/2023-alchLabs-cover.png
 isbn: 978-3-99165-916-7 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: edited-collection history-of-alchemy alchemical-laboratory
 tags: edited-collection
-#buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
+buy_link: https://www.amazon.de/Alchemical-Laboratories-Alchemische-Labore-Hinterlassenschaften/dp/3991659166
 #date: 2024-08-23
 #started: 2024-08-23
 #finished: 2024-09-07
 released: 2023
 #stars: 5
 #goodreads_review: 6318556633
-#status: Finished
+status: 2023
 ---
 
 The alchemical laboratory was a seminal site for the birth of modern science. Before their institutionalization, chymical laboratories were typically makeshift and multipurpose, necessitating an interdisciplinary approach to fully comprehend their role in the evolution of experimental knowledge-making. 

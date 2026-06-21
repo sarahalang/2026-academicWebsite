@@ -8,7 +8,7 @@ nav_order: 4
 calendar: false
 ---
 
-I have taught at a range of institutions over the past years, including the University of Passau, the University of Vienna, the University of Graz, and the University of Wuppertal. In 2026/2027, I will also be teaching at Freie Universität Berlin and Humboldt-Universität zu Berlin.
+I have taught more than 25 classes (excluding workshops and schools) at a range of institutions over the past years, including the University of Passau, the University of Vienna, the University of Graz, and the University of Wuppertal. In 2026/2027, I will also be teaching at Freie Universität Berlin and Humboldt-Universität zu Berlin.
 
 My teaching has covered a wide range of topics in the digital humanities. More recently, I was particularly pleased to teach at the intersection of digital humanities and the history of science during my guest professorship at the University of Wuppertal. I have taught a broad range of technologies and methods, and my upcoming courses will focus on critical data, data gaps, and critical computational humanities.
 

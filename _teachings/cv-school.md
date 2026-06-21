@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Summer School: Computer Vision for Digital Humanists
+title: Computer Vision for Digital Humanists (Summer School and Video Course)
 description: This summer school introduces computer vision and machine learning methods for image-based research in the Digital Humanities.
 instructor: Sean Winslow, Sarah Lang et al.
 year: 2023

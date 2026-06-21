@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alchemical Laboratories / Texts, Practices, Material Relics
+title: Alchemical Laboratories. Texts, Practices, Material Relics
 description: The edited volume offers a broad and multidisciplinary view of the early modern alchemical laboratory. 
 img: assets/img/book_covers/2023-alchLabs-cover.png
 importance: 1

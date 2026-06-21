@@ -8,16 +8,16 @@ work_url: www.mpiwg-berlin.mpg.de/de/people/slang
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: EghH0_UAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-4618-9481 # https://orcid.org/0000-0002-4618-9481 
-zotero_username: sarahalang 
 github_username: sarahalang
 youtube_id: sarahalang # your youtube channel id (youtube.com/@<youtube_id>)
+bluesky_url: https://bsky.app/profile/sarahalang.bsky.social
+mastodon_username: fedihum.org/@sarahalang  # your mastodon instance+username in the format instance.tld/@username
+# https://fedihum.org/@sarahalang 
 # instagram_id: 
 # discord_id: # your discord id (18-digit unique numerical identifier)
 # research_gate_profile: 
 # arxiv_id: 
-bluesky_url: https://bsky.app/profile/sarahalang.bsky.social
-mastodon_username: fedihum.org/@sarahalang  # your mastodon instance+username in the format instance.tld/@username
-# https://fedihum.org/@sarahalang 
+zotero_username: sarahalang
 academia_edu: # https://mpiwg-berlin-mpg.academia.edu/SarahLang    
  organization: mpiwg-berlin-mpg # your organization as appears in the subdomain
  username:  SarahLang # your username
@@ -33,7 +33,7 @@ custom_social: # can be any name here other than the ones already defined in the
   # or a Scholar Icons class like "si si-leetcode" https://louisfacun.github.io/scholar-icons/
   # or any other icon class from fonts you've added to your site
 custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: si si-latex-alt
+  logo: si si-latex
   title: LaTeX Ninja Blog
   url: https://latex-ninja.com
 

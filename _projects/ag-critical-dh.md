@@ -3,7 +3,7 @@ layout: page
 title: Working group Critical Digital Humanities 
 description: Within the working group formerly known as DHd AG Empowerment, which was rebranded this year as AG Critical Digital Humanities in 2026, I have engaged in research in critical digital humanities, including AI criticism, data gaps, data feminism, and related topics. 
 #img: assets/img/1.jpg
-importance: 3
+importance: 5
 category: critical digital humanities 
 ---
 

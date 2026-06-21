@@ -4,7 +4,7 @@
 # https://github.com/george-gca/jekyll-socials # ABSOLUTELY CHECK DOCU!
 cv_pdf: /assets/pdf/SLang_CV_2025_08_31.pdf # path to your CV PDF file
 email: slang@mpiwg-berlin.mpg.de # your email address
-work_url: www.mpiwg-berlin.mpg.de/de/people/slang
+work_url: https://www.mpiwg-berlin.mpg.de/de/people/slang
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: EghH0_UAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-4618-9481 # https://orcid.org/0000-0002-4618-9481 

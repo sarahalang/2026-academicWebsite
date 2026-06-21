@@ -2,7 +2,7 @@
 layout: book-shelf
 title: books
 permalink: /books/
-nav: true
+nav: false # I'm not currently super happy with how this is displayed and there aren't enough books for this to really make sense
 nav_order: 5
 collection: books
 ---

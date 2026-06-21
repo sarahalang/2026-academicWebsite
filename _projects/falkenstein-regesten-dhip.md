@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Annotating regests
-description: Gallia Pontificia online
+description: I annotated 1,162 regests of medieval charters for Gallia Pontificia online during an internship at DHIP.
 # img: assets/img/12.jpg
 importance: 1
 category: past

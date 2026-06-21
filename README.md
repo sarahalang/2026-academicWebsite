@@ -37,6 +37,12 @@ Main view in the `_pages` directory. Rest in `_posts`.
 ## Edit teaching
 Main view in the `_pages` directory. Rest in `_teachings`. 
 
+
+---
+
+---
+
+---
 # al-folio
 
 <div align="center">

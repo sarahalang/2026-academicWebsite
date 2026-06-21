@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detecting laboratory objects in early modern illustrations
+title: Mining historical recipe collections
 description: The early modern period witnessed a boom in how-to books. So-called books of secrets were large compendia of recipes that could benefit greatly from being analysed through computational methods.
 img: assets/img/wecker1617-666.png
 importance: 1

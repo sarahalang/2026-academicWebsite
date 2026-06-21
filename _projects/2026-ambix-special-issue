@@ -1,0 +1,26 @@
+---
+layout: page
+title: 'Ambix Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry”'
+description: This special issue negotiates the opportunities, challenges and responsibilities involved in using computational methods for historical research. 
+#img: assets/img/wecker1617-666.png
+importance: 1
+category: book projects
+related_publications: true
+---
+
+In 2025–2026, I co-edited the *Ambix* Special Issue on “Computational Approaches to the Histories of Alchemy and Chemistry” together with Guillermo Restrepo and Farzad Mahootian.
+The project was catalysed by the wonderful May 2025 NYU Abu Dhabi workshop, *The Alchemy of Global Partnerships*, convened by Farzad Mahootian.
+
+It explores computational approaches to these fields while also reflecting more broadly on the role of computational methods in historiography, including their challenges, opportunities, epistemic horizons, and epistemic responsibilities {% cite MahootianLangRestrepo2026 %}. 
+In the epilogue {% cite Lang2026Epilogue %}, I examine whether a computational history of science currently exists as a distinct field. I argue that it does not yet exist in a fully developed form, but I outline the conditions that would be necessary for it to emerge as a recognised sub-discipline.
+
+Beyond my involvement in writing the introduction and epilogue, the special issue also includes two of my own contributions on alchemical dictionaries. 
+
+One investigates Arabic terminology, leveraging LLMs for a hybrid close and distant reading, with the aim of contributing to a more global history of alchemy and chemistry {% cite LangMahootianLashen2026 %}. 
+At the same time, we also critically assess the potential risks associated with using large language models for Arabic, 
+a language that is not among the dominant Western languages on which many such models are primarily trained {% cite LangEtAl2026Confabulated %}.
+
+The second study performs distributional semantics and tracks the provenance of Ruland's terms across an earlier corpus 
+{% cite KaseLang2026Ambix %}. 
+In a related project, we have also explored the semantic abilities of LLMs for metaphor detection {% cite KaseLangPavlas2025 %}.
+

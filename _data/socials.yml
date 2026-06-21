@@ -21,16 +21,16 @@ academia_edu: # https://mpiwg-berlin-mpg.academia.edu/SarahLang
  organization: mpiwg-berlin-mpg # your organization as appears in the subdomain
  username:  SarahLang # your username
 custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://latex-ninja.com/wp-content/uploads/2018/10/cropped-ninja.png # fa-brands fa-tex #si si-latex #fa-solid fa-user-ninja # fa-solid fa-user-secret
-  title: LaTeXNinja-Blog
-  url: https://latex-ninja.com
+ logo: https://latex-ninja.com/wp-content/uploads/2018/10/cropped-ninja.png # fa-brands fa-tex #si si-latex #fa-solid fa-user-ninja # fa-solid fa-user-secret
+ title: LaTeXNinja-Blog
+ url: https://latex-ninja.com
 # ------
 # for some reason the following don't work but I guess it doensn't matter
 zotero_username: sarahalang
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: ai ai-zenodo #si si-zenodo
-  title: Zenodo
-  url: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Sarah%22&l=list&p=1&s=10&sort=bestmatch 
+ logo: ai ai-zenodo #si si-zenodo
+ title: Zenodo
+ url: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lang%2C%20Sarah%22&l=list&p=1&s=10&sort=bestmatch 
  # logo can be a link to an image (png, jpg, svg)
   # or an Academicons class like "ai ai-acm" https://jpswalsh.github.io/academicons/ 
   # or a FontAwesome class like "fa-brands fa-square-letterboxd" https://fontawesome.com/

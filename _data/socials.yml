@@ -20,6 +20,10 @@ mastodon_username: fedihum.org/@sarahalang  # your mastodon instance+username in
 academia_edu: # https://mpiwg-berlin-mpg.academia.edu/SarahLang    
  organization: mpiwg-berlin-mpg # your organization as appears in the subdomain
  username:  SarahLang # your username
+custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: https://latex-ninja.com/wp-content/uploads/2018/10/cropped-ninja.png # fa-brands fa-tex #si si-latex #fa-solid fa-user-ninja # fa-solid fa-user-secret
+  title: LaTeXNinja-Blog
+  url: https://latex-ninja.com
 # ------
 # for some reason the following don't work but I guess it doensn't matter
 zotero_username: sarahalang
@@ -32,10 +36,6 @@ custom_social: # can be any name here other than the ones already defined in the
   # or a FontAwesome class like "fa-brands fa-square-letterboxd" https://fontawesome.com/
   # or a Scholar Icons class like "si si-leetcode" https://louisfacun.github.io/scholar-icons/
   # or any other icon class from fonts you've added to your site
-custom_social:  # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://latex-ninja.com/wp-content/uploads/2018/10/cropped-ninja.png # fa-brands fa-tex #si si-latex #fa-solid fa-user-ninja # fa-solid fa-user-secret
-  title: LaTeXNinja-Blog
-  url: https://latex-ninja.com
 # ---
 # the following example one does work - but I don't understand what the difference is...
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin

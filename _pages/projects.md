@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: This page gives an overview on my ongoing and past projects.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [computational history of science and knowledge, critical digital humanities, book projects, alchemy, past]
 horizontal: false
 ---

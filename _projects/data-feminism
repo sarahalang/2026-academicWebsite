@@ -7,13 +7,13 @@ category: critical digital humanities
 related_publications: true
 ---
 
-At DHd 2023, the working group organised a workshop on data feminism  {% cite dhd-workshop-datafem2023 %}, 
+At DHd 2023, the working group organised a workshop on data feminism  {% cite dhd-workshop-datafem2023 %} , 
 the results of which were subsequently reported in blog posts published in both English  {% cite Borek2023a %} and German  {% cite Borek2023b %}. 
 At the same conference, we co-organised a panel  {% cite Gengnagel2023b %} and also co-organised a panel at the international DH2023 conference in Graz that same year {% cite dh2023borderlands %}. I further represented the working group in a panel on failure in DH {% cite scheitern2023 %} that was reported on here {% cite Lang2024Scheitern %}.
 
 Our longer-term engagement with data feminism and (the gender) data gap(s) culminated in the publication of a *ZfdG* working paper on data feminism in 2026  {% cite LangSuarezCronauer2026_BeyondDataFeminism %}. 
 Complementing this work, we published a more focused study on the gender data gap in the *Computational Humanities Research* journal: 
-In the article, “Dataset Audits for Mitigating Data Gaps,” we propose the dataset audit as a practical strategy for identifying and addressing data gaps while discussing the gender data gap more broadly {% cite ‎LangSuarezCronauer2026‎ %}. 
+In the article, “Dataset Audits for Mitigating Data Gaps,” we propose the dataset audit as a practical strategy for identifying and addressing data gaps while discussing the gender data gap more broadly {% cite ‎LangSuarezCronauer2026‎ %} . 
 Preliminary research into the topic had examined dataset documentation practices  {% cite Lang2025DocumentingDatasets %}. 
 
 Following this extended focus on data feminism, the current projects of the working group are increasingly turning towards the study of data work and its influence on processes of knowledge production {% cite GengnagelLang2026 %}. 

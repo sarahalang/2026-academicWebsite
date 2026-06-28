@@ -17,7 +17,7 @@ Our longer-term engagement with data feminism and (the gender) data gap(s)  culm
 Following this extended focus on data feminism, the current projects of the working group are increasingly turning towards the study of data work and its influence on processes of knowledge production {% cite GengnagelLang2026 %}. 
 This is closely connected to fields such as critical AI studies, which increasingly recognise data and data work as central sources of bias and unethical outcomes in computational systems. 
 
-Consequently, my own research has also expanded to include critical AI. This includes articulating critical concerns regarding the use of large language models in digital and computational humanities  {% cite Lang2026LLM_criticalHPSS %}, as well as addressing issues such as carbon reporting and the environmental impact of computational research {% cite LangEtAl2025EnvironmentalFootprint‎ %}. 
+Consequently, my own research has also expanded to include critical AI. This includes articulating critical concerns regarding the use of large language models in digital and computational humanities  {% cite Lang2026LLM_criticalHPSS %}, as well as addressing issues such as carbon reporting and the environmental impact of computational research {% cite LangEtAl2025EnvironmentalFootprint %} . 
 Through this work, I am increasingly developing what I would like to call a critical computational humanities that that articulates principles for good scholarly practice in contexts that use digital, computational and AI methods.
 
 At DHd2026, I represented the working group in a panel about the dark sides of DH {% cite ArnoldEtAl2026_DarkSidesDH %}. 

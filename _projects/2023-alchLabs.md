@@ -21,4 +21,4 @@ The early modern alchemical laboratory is discernible through both textual and m
 For instance, the 16th-century laboratory excavated at Oberstockstall Manor (Lower Austria), along with aristocratic correspondence and alchemical medals from the Coin Collection of the Kunsthistorisches Museum Vienna, illuminates the cultural resonance of chymical practices of the era. 
 These relics not only reveal the more technical aspects of alchemy but also its role as an exclusive form of entertainment in elite social circles. 
 
-Beyond the editor's introduction {% cite alchLabsIntro2023 %}, I contributed to an article on using Transkribus for automatically generating transcriptions of alchemical and other early modern scholarly texts {% cite FroestlZathammerLang2023 %}.
+Beyond the editor's introduction {% cite Lang2023Introduction %}, I contributed to an article on using Transkribus for automatically generating transcriptions of alchemical and other early modern scholarly texts {% cite FroestlZathammerLang2023 %}.

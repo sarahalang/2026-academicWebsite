@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 Recently, my research has expanded to include critical AI. This includes articulating critical concerns regarding the use of large language models in digital and computational humanities {% cite Lang2026LLM_criticalHPSS %}, 
-as well as addressing issues such as carbon reporting and the environmental impact of computational research {% cite LangEtAl2025EnvironmentalFootprint‎ %}.
+as well as addressing issues such as carbon reporting and the environmental impact of computational research {% cite LangEtAl2025EnvironmentalFootprint‎ %} .
 I have also explored the lure of plausibility in using LLMs for OCR in non-Western languages such as Arabic {% cite LangEtAl2026Confabulated %}. 
 Through this work, I am increasingly developing what I would like to call a critical computational humanities that that articulates principles for good scholarly practice in contexts that use digital, computational and AI methods.
 

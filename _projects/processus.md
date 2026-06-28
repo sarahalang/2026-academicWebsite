@@ -14,7 +14,7 @@ Computational approaches are used to categorise alchemical recipes that belong t
 
 I started the _Processus Universalis_ project in 2018 together with the [Gotha Netzwerk Alchemie](https://www.uni-erfurt.de/forschungszentrum-gotha/forschung/arbeitsstellen-und-netzwerke/netzwerk-alchemie). 
 
-The edited volume resulting from our collaboration at that time is scheduled for publication in 2026 and is currently in press  {% cite futureWork %}. This work has also inspired me to think about the relationship between experimental and computational methods in history of science and knowledge  {% cite Lang2022 %}. 
+The edited volume resulting from our collaboration at that time is scheduled for publication in 2026 and is currently in press  {% cite Lang2026processusAlt %}. This work has also inspired me to think about the relationship between experimental and computational methods in history of science and knowledge  {% cite Lang2022 %}. 
  
 Because the methods used in the original project have since evolved, I revisited the material in 2026. A number of forthcoming publications re-examine [the original data and ground truth](https://github.com/sarahalang/processus-universalis) by investigating the relationship between linguistic surface features and content. To do so, I apply methods that focus either on language features or on knowledge extraction and representation. 
 

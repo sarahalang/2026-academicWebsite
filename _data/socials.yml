@@ -2,7 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin:
 # https://github.com/george-gca/jekyll-socials # ABSOLUTELY CHECK DOCU!
-cv_pdf: /assets/pdf/SLang_CV_2025_08_31.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/SLang_CV_2026_06_30_full_EN-websiteVersion.pdf # path to your CV PDF file
 email: slang@mpiwg-berlin.mpg.de # your email address
 work_url: https://www.mpiwg-berlin.mpg.de/de/people/slang
 # rss_icon: true # comment this line to hide the RSS icon

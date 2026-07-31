@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-31'
 papers:
   EghH0_UAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -200,6 +200,10 @@ papers:
   EghH0_UAAAAJ:k_IJM867U9cC:
     citations: 0
     title: '(Doing) Computational History: The Role of Data Work in Computational Approaches'
+    year: '2026'
+  EghH0_UAAAAJ:lSLTfruPkqcC:
+    citations: 0
+    title: "Mediating Alchemical Language across Terminologies and Cultures in Ruland\u2019s Lexicon Alchemiae: A Data-Driven Study of Arabic Terms"
     year: '2026'
   EghH0_UAAAAJ:mVmsd5A6BfQC:
     citations: 0

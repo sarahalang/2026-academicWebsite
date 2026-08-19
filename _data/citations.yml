@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-19'
 papers:
   EghH0_UAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: How to best make use of your founding fathers. Political instrumentalizations of Aeneas for creating Roman identity in the Augustan time
     year: '2017'
+  EghH0_UAAAAJ:35N4QoGY0k4C:
+    citations: 0
+    title: A Computational Turn? Reflections on Digital and Computational History of Science, Knowledge and Technology
+    year: '2026'
   EghH0_UAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: "Grazer Repositorium antiker Fabeln (GRaF, 2017\u20132019)"
@@ -25,6 +29,10 @@ papers:
     citations: 2
     title: Herausforderung, Lesson Learned oder Chance? Der Zusammenhang zwischen Kulturen des Scheiterns und Open-Bewegungen in den Digital Humanities
     year: '2023'
+  EghH0_UAAAAJ:70eg2SAEIzsC:
+    citations: 0
+    title: 'Introduction: Computational Approaches to the Histories of Alchemy and Chemistry'
+    year: '2026'
   EghH0_UAAAAJ:7PzlFSSx8tAC:
     citations: 0
     title: "eScriptorium meets LLMs: Moderne KI-Systeme im Kontext der Volltexterschlie\xDFung"
@@ -42,7 +50,7 @@ papers:
     title: "Vom \u2018Wissen in Buchform\u2019 zum formalen Wissensmodell. Digitale Aufbereitung wissen- schaftshistorischer Drucke am Beispiel der Alchemica Michael Maiers"
     year: '2022'
   EghH0_UAAAAJ:IWHjjKOFINEC:
-    citations: 1
+    citations: 0
     title: "Furnace and Fugue. A multimedia edition of Michael Maier\u2019s Atalanta fugiens"
     year: '2023'
   EghH0_UAAAAJ:IjCSPb-OGe4C:
@@ -58,7 +66,7 @@ papers:
     title: 'The Dark Sides of DH Revisited: From Utopia to Reality'
     year: '2026'
   EghH0_UAAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: "Toward a Computational Historiography of Alchemy: Challenges and Obstacles of Object Detection for Historical Illustrations of Mining, Metallurgy and Distillation in 16th-17th \u2026"
     year: '2023'
   EghH0_UAAAAJ:L8Ckcad2t8MC:
@@ -71,7 +79,7 @@ papers:
     year: '2022'
   EghH0_UAAAAJ:M3NEmzRMIkIC:
     citations: 4
-    title: 'Computational Humanities and Toxic Masculinity: A Long Reflection'
+    title: The Computational Humanities and Toxic Masculinity? A (long) reflection
     year: '2020'
   EghH0_UAAAAJ:M3ejUd6NZC8C:
     citations: 0
@@ -90,7 +98,7 @@ papers:
     title: 'Ways of making digital editions of historical recipes and experimental texts: The Making and Knowing Project'
     year: '2026'
   EghH0_UAAAAJ:QIV2ME_5wuYC:
-    citations: 5
+    citations: 6
     title: 'Alchemical Laboratories: Texts, Practices, Material Relics. An Introduction'
     year: '2023'
   EghH0_UAAAAJ:R3hNpaxXUhUC:
@@ -99,14 +107,14 @@ papers:
     year: '2021'
   EghH0_UAAAAJ:RGFaLdJalmkC:
     citations: 0
-    title: "Homo transcendentalis: der Mensch in seiner Symbolf\xE4higkeit zwischen Leiden, Dramatik und Hoffnung: Festschrift anl\xE4sslich des 80. Geburtstags"
+    title: "Homo transcendentalis: der Mensch in seiner Symbolf\xE4higkeit zwischen Leiden, Dramatik und Hoffnung: Festschrift anl\xE4sslich des 80. Geburtstags/Karl M. Woschitz; herausgegeben \u2026"
     year: '2017'
   EghH0_UAAAAJ:RHpTSmoSYBkC:
     citations: 3
     title: News on the DH and Gender Equality
     year: '2020'
   EghH0_UAAAAJ:RYcK_YlVTxYC:
-    citations: 2
+    citations: 3
     title: Critical Concerns for Using LLMs in the (Computational) Humanities and Beyond
     year: '2026'
   EghH0_UAAAAJ:Se3iqnhoufwC:
@@ -118,7 +126,7 @@ papers:
     title: "Deciphering the Philosophers\u2019 Stone: how we cracked a 400-year-old alchemical cipher"
     year: '2021'
   EghH0_UAAAAJ:UeHWp8X0CEIC:
-    citations: 2
+    citations: 3
     title: "Assessing Michael Maier\u2019s Contributions to Francis Anthony\u2019s Apologia (1616) Using Stylometry"
     year: '2021'
   EghH0_UAAAAJ:UebtZRa9Y70C:
@@ -138,7 +146,7 @@ papers:
     title: LaTeX in the Digital Humanities
     year: '2024'
   EghH0_UAAAAJ:Y0pCki6q_DkC:
-    citations: 1
+    citations: 2
     title: "Digitale Annotation alchemischer Decknamen:\u201EDie Allegoriae werden uns nit mehr verborgen seyn.\u201C"
     year: '2020'
   EghH0_UAAAAJ:YFjsv_pBGBYC:
@@ -170,7 +178,7 @@ papers:
     title: Documenting datasets as a tool for change
     year: '2025'
   EghH0_UAAAAJ:d1gkVwhDpl0C:
-    citations: 9
+    citations: 8
     title: Review of Perseus Digital Library
     year: '2018'
   EghH0_UAAAAJ:e5wmG9Sq2KIC:
@@ -182,7 +190,7 @@ papers:
     title: "Project Overhaul und Refactoring der Digitalen Edition der 'Urfehdeb\xFCcher der Stadt Basel' mithilfe von GPT-4 und LLM"
     year: '2024'
   EghH0_UAAAAJ:hqOjcs7Dif8C:
-    citations: 3
+    citations: 4
     title: Experiments in the digital laboratory. What the Computational Humanities can learn about their definition and terminology from the History of Science
     year: '2022'
   EghH0_UAAAAJ:iH-uZ7U-co4C:
@@ -202,11 +210,11 @@ papers:
     title: '(Doing) Computational History: The Role of Data Work in Computational Approaches'
     year: '2026'
   EghH0_UAAAAJ:lSLTfruPkqcC:
-    citations: 0
+    citations: 1
     title: "Mediating Alchemical Language across Terminologies and Cultures in Ruland\u2019s Lexicon Alchemiae: A Data-Driven Study of Arabic Terms"
     year: '2026'
   EghH0_UAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 2
     title: 'Towards a Data-Driven History of Lexicography: Two Alchemical Dictionaries in TEI-XML'
     year: '2025'
   EghH0_UAAAAJ:maZDTaKrznsC:
@@ -218,7 +226,7 @@ papers:
     title: "Imago et error. Decrypting the allegorical images of Michael Maier\u2019s Viatorium (1618)'"
     year: '2024'
   EghH0_UAAAAJ:qjMakFHDy7sC:
-    citations: 2
+    citations: 3
     title: "Digitale Lernplattformen und Open Educational Resources im Altsprachlichen Unterricht I. Technische Spielr\xE4ume am Beispiel des \u203AGrazer Repositorium antiker Fabeln\u2039 (GRaF)"
     year: '2020'
   EghH0_UAAAAJ:qxL8FJ1GzNcC:
@@ -238,6 +246,10 @@ papers:
     title: Tragisches Ritual?
     year: Unknown Year
   EghH0_UAAAAJ:ufrVoPGSRksC:
-    citations: 6
+    citations: 8
     title: A Machine Reasoning Algorithm for the Digital Analysis of Alchemical Language and its Decknamen
     year: '2022'
+  EghH0_UAAAAJ:vV6vV6tmYwMC:
+    citations: 5
+    title: "Alchemische Decknamen digital entschl\xFCsseln"
+    year: '2021'

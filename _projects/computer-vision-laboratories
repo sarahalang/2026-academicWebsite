@@ -12,9 +12,10 @@ The computer vision subproject investigates alchemical laboratory objects throug
 These works incorporated increasingly more sophisticated illustrations of laboratory equipment and experimental setups. 
 
 The project builds on an annotated computer vision dataset {% cite Lang2025ZfdG %} and explores the possibilities of computational image analysis in this context. 
-At the same time, it critically examines the limitations of computer vision approaches for early modern materials {% cite Lang2026DoingComputationalHistory %}. 
+
+At the same time, it critically examines the limitations of computer vision approaches for early modern materials {% cite Lang2026DoingComputationalHistory %} : 
 The primary challenge is not the visual style of the images themselves but the difficulty of annotating and analysing concepts that contemporary algorithms have not been trained to recognise {% cite LangLieblBurghardt2023 %}. 
-This reveals forms of bias that often remain hidden within computational approaches commonly associated with distant viewing in the computational humanities.
+This reveals forms of bias that often remain hidden in approaches commonly associated with distant viewing in the computational humanities.
 
 
 

@@ -15,6 +15,6 @@ As a widely adopted standard for the semantic annotation and enrichment of human
 Combining lectures, discussions, and practical exercises, the course familiarises students with XML, schema languages, data modelling, and text encoding using the TEI Guidelines. 
 Students gain hands-on experience in designing and encoding humanities data while developing an understanding of the conceptual decisions involved in modelling textual sources for scholarly research.
 
-This course was taught at the University of Vienna in Winter Semester 2020/2021 (co-taught with Roman Bleier, Hans Clausen and Christopher Pollin) and Winter Semester 2021/2022 (co-taught withChristopher Pollin).
+This course was taught at the University of Vienna in Winter Semester 2020/2021 (co-taught with Roman Bleier, Hans Clausen and Christopher Pollin) and Winter Semester 2021/2022 (co-taught with Christopher Pollin).
 
 [A YouTube playlist]([url](https://www.youtube.com/playlist?list=PLWNohMNguM_nKGJdfKkBaLdvMzoIrzJ5C)) is available that covers part of this class (in German). 

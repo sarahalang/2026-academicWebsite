@@ -9,7 +9,7 @@ course_id: project-management-digital-humanities
 
 ## Course Overview
 
-Digital Humanities projects require the coordination of diverse disciplinary expertise, technologies, data standards, and research workflows. 
+Digital Humanities projects require the coordination of disciplinary expertise, technologies, data standards, and research workflows. 
 The course introduces students to both the theoretical foundations and practical applications of project management in Digital Humanities contexts.
 
 Using a digital edition project as a case study, students examine the complete project lifecycle, from initial conception (grant proposal) and planning to data modelling, publication, and archiving. 
